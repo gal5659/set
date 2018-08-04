@@ -1,0 +1,9 @@
+Keys for set cards game:
+A-move right
+D-move left
+S-move down
+W-move up
+Q-choose\unchoose card
+3-add 3 cards to board
+H-get a hint
+Esc\M-go back to menu
